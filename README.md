@@ -1,5 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<!-- Faixa superior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=556B2F,00FF00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Cristiane+Wetter;I'm+from+Brazil;Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!-- Texto central com efeito digitado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Cristiane+Wetter" alt="Typing animation in black">
+</p>
 
-### Main skills: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=sql&labelColor=0D1117)&nbsp;
+<!-- Conteúdo adicional opcional -->
+<p align="center">
+  💡 Apaixonada por tecnologia, dados e segurança<br>  
+  🧬 Curiosa por natureza, determinada por escolha <br>  
+  🛡️ Explorando o universo da cibersegurança com Kali Linux <br>  
+  📈 Transformando dados em decisões inteligentes
+</p>
+
+<!-- Faixa inferior -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=556B2F,00FF00&height=120&section=footer"/>
+
+
+
+
+
+
+
+### Main skills:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="40" title="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter Notebook"/>
+</p>
+
+
+
+          
