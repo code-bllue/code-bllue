@@ -7,10 +7,10 @@
 </p>
 <!-- Conteúdo adicional opcional -->
 <p align="center">
-  💡 Estudante de Ciência de Dados na EBAC<br>  
-  🧬 Curiosa por natureza, determinada por escolha <br>  
-  🛡️ Explorando o universo da cibersegurança com Kali Linux <br>  
-  📈 Transformando dados em decisões inteligentes
+  🎓 Data Science student at EBAC<br> 
+  🧬 Curious by nature, determined by choice <br> 
+  🛡️ Exploring the world of cybersecurity with Kali Linux <br> 
+  📈 Turning data into intelligent decisions
 </p>
 
 <!-- Faixa inferior -->
