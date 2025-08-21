@@ -1,11 +1,10 @@
 <!-- Faixa superior -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=556B2F,00FF00&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=556B2F&height=120&section=header"/>
 
 <!-- Texto central com efeito digitado -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=22&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Cristiane+Wetter" alt="Typing animation in black">
 </p>
-
 <!-- Conteúdo adicional opcional -->
 <p align="center">
   💡 Estudante de Ciência de Dados na EBAC<br>  
